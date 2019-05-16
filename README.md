@@ -101,20 +101,17 @@ A Penetration Testing Framework, you will have every script that a hacker needs
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
-bash <(wget -qO- https://git.io/vAtmB)
+bash <(wget -qO- https://git.io/fjlN1)
 ```
 
-Follow This Video [HackerSploit](https://www.youtube.com/watch?v=t3uYpMrK2EU)
 
 ## Installation
 
 Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```bash
-bash <(wget -qO- https://git.io/vAtmB)
+bash <(wget -qO- https://git.io/fjlN1)
 ```
-
-Follow This Video [Arif - Tech](https://www.youtube.com/watch?v=JwK5oOBjpgQ&t=160s)
 
 ## Installation [Windows](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 
@@ -140,9 +137,6 @@ docker-compose up -d
 docker-compose exec fsociety fsociety
 docker-compose down # destroys instance
 ```
-# Visit Our Social Network :kissing_heart:
-
-[Fsociety.host](https://fsociety.host/)
 
 # Screenshots
 
@@ -152,28 +146,11 @@ docker-compose down # destroys instance
 
 # Contributors
 
-[alexcreek](https://github.com/alexcreek)
+[Prince](https://github.com/Pr1nceCSA)
 
-[mswell](https://github.com/mswell)
-
-[Ev3](https://github.com/Ev3)
-
-[huangsam](https://github.com/huangsam)
-
-[RyanFilho](https://github.com/RyanFilho)
-
-[gabru-md](https://github.com/gabru-md)
-
-[jdrago999](https://github.com/jdrago999)
 
 # License
 
-[MIT Licence](https://github.com/Manisso/fsociety/blob/master/LICENSE)
+[MIT Licence](https://github.com/Pr1nceCSA/fsociety/blob/master/LICENSE)
 
-# Join the team 
- Do you want to collaborate? Join the project at https://crowdforge.io/projects/409
- 
- # Donate
-- Bitcoin  = 3N8i3Xpi15E11M2zPUm5kPhGjnPSLXcWFt
-- Ethereum = 0xa891e54169182a93cacba41288d16aaffa537503
 
